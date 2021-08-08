@@ -1,0 +1,7 @@
+{
+  "extends": "@antfu/eslint-config-react",
+  "rules": {
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": ["off"]
+  }
+}
